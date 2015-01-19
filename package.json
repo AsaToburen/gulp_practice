@@ -1,0 +1,15 @@
+{
+  "name": "gulpPractice",
+  "version": "0.0.1",
+  "description": "Working with Gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "Asa Toburen",
+  "license": "ISC"
+}
